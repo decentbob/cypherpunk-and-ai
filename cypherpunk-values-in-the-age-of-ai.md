@@ -65,7 +65,7 @@ Two losses may be irreversible:
 
 Centralized control does not guarantee survival. Decentralized power does not guarantee protection from catastrophe.
 
-I do not have a clean answer. People still need protection against concentrated power. I am less sure that making every activity unstoppable is a net good.
+I do not have a clean answer. People still need protection against concentrated power. I am less sure that making every activity unstoppable is a net good. And I can see the possibility that the mere existence of such a system will make durable solutions unattainable and doom all that I love.
 
 A tradeoff we accepted yesterday may become unacceptable tomorrow, even if the protocol stays exactly the same.
 
